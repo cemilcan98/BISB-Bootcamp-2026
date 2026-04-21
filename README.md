@@ -1,0 +1,22 @@
+# BISB Bootcamp 2025
+
+This is the course repository for the 2025 UC San Diego Bioinformatics & Systems Biology (BISB) PhD program Bootcamp. To learn more about bootcamp, please visit the [course website](https://bioinfo-ucsd.github.io/BISB-Bootcamp-2025/).
+
+This repo is structured as follows:
+
+```bash
+.
+├── README.md # this file
+├── website # course website
+└── modules # materials for each module
+```
+
+To contribute to the course website, please follow the instructions at [./docs/README.md](./docs/README.md).
+
+To contribute to the course materials, please follow the instructions at [./modules/README.md](./modules/README.md).
+
+## Adapting this repository for future iterations of BISB Bootcamp
+
+Click [Use this template](https://github.com/bioinfo-ucsd/BISB-Bootcamp-2025/generate) to create a new repo for a future bootcamp. Then edit away!
+
+Also, remember to coordinate with GBIC's Director of External Affairs to add the first years' GitHub accounts to the [bioinfo-ucsd org](https://github.com/bioinfo-ucsd) so that they can be properly authenticated for the software engineering module!
