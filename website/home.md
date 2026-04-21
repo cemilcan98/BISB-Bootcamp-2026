@@ -8,9 +8,9 @@ seo:
   name: Just the Class
 ---
 
-# Bioinformatics & Systems Biology Bootcamp 2025
+# Bioinformatics & Systems Biology Bootcamp 2026
 
-Welcome to the 2025 Bootcamp for incoming students to the UC San Diego Bioinformatics & Systems Biology (BISB) PhD program!
+Welcome to the 2026 Bootcamp for incoming students to the UC San Diego Bioinformatics & Systems Biology (BISB) PhD program!
 
 This 5-day intensive course is designed to place incoming PhD students on a path to success in their doctoral studies by conducting the following:
 
@@ -24,7 +24,7 @@ Bootcamp's content spans the topics listed above and is delivered through lectur
 
 ## Location and Schedule
 
-Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 15, 2025 to Friday, September 19, 2025**, in **[MET](https://goo.gl/maps/eXQLH5v2zcRU8f8P8) (Monday: MET 204, Tuesday: MET 223, Wednesday: MET 141, Thursday: MET 141, Friday: MET 204)**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
+Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 14, 2026 to Friday, September 18, 2026**, in **[MET](https://goo.gl/maps/eXQLH5v2zcRU8f8P8) (Monday: MET 204, Tuesday: MET 223, Wednesday: MET 141, Thursday: MET 141, Friday: MET 204)**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
 
 ## Learn about BISB/BMI Research: Summer Seminar Series
 
