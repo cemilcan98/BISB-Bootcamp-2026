@@ -1,6 +1,6 @@
-# BISB Bootcamp 2025
+# BISB Bootcamp 2026
 
-This is the course repository for the 2025 UC San Diego Bioinformatics & Systems Biology (BISB) PhD program Bootcamp. To learn more about bootcamp, please visit the [course website](https://bioinfo-ucsd.github.io/BISB-Bootcamp-2025/).
+This is the course repository for the 2026 UC San Diego Bioinformatics & Systems Biology (BISB) PhD program Bootcamp. To learn more about bootcamp, please visit the [course website](https://bioinfo-ucsd.github.io/BISB-Bootcamp-2026/).
 
 This repo is structured as follows:
 
