@@ -4,6 +4,6 @@ title: 2nd year BISB PhD student
 role: Bootcamp Instructor
 email: s9wright@ucusd.edu
 advisor: [""]
-photo: 
+photo: sam_wright.jpeg
 pronouns: he/him
 ---
